@@ -2,9 +2,10 @@
 
 > DSC 공유대학 캡스톤 디자인 프로젝트
 > ### 공공자전거 타슈 데이터 분석 및 개인화 서비스 제안
+> 대전 공공자전거 ‘타슈’를 이용하는 사용자들의 기록을 분석해서 MBTI 유형처럼 어떤 타슈 사용자 유형인지 알려주는 프로젝트입니다. **Gamification**을 접목하여 타슈 이용을 더 유도하고, 대전 노잼도시 이미지를 타파하자는 목적으로 시작했습니다. 
 > - 일시 : 2023.09 ~ 2023.12
 > - 기관/강의 : DSC 공유대학 캡스톤 디자인2 
-> - 수상 : 리빙랩∙캡스톤디자인 우수성과공유회 장려상 수상
+> - 수상 : 리빙랩∙캡스톤디자인 우수성과공유회 우수상 수상
 
 
 ### 1. 팀원 소개
@@ -19,14 +20,16 @@
 <img width=800 alt="image" src="https://github.com/tashu-analytics/capstone-project/assets/114162639/cfbe1f49-3071-4278-a96a-d0188bd62906">
 
 
-### 3. 활동 개요
+### 3. 활동 개요 및 협업 도구
 - 캡스톤 디자인2는 아래와 같은 절차로 수행됨. 
 <img width="800" alt="image" src="https://github.com/tashu-analytics/capstone-project/assets/114162639/692171e5-a419-469d-a643-442d49ab6ee3">
+- 사용 언어 & 툴 : Python, Colab, Figma
+<img width="687" alt="image" src="https://github.com/tashu-analytics/capstone-project/assets/114162639/f01d4633-dd44-40ab-8a76-2b195d80329f">
 
 
 ### 4. 서비스 프로토타입
 - 데이터 분석을 바탕으로 중요한 인사이트를 도출함.
-- 유저 대여 기록을 바탕으로 분석지를 프로토타입 디자인
+- 유저 대여 기록을 바탕으로 분석한 프로토타입 결과물 예시) 
 <img width=800 alt="image" src="https://github.com/tashu-analytics/capstone-project/assets/114162639/28505608-4cc7-4332-b8a4-da4f65d773fc">
 
 
