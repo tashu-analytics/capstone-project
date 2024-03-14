@@ -12,6 +12,7 @@
 - 충남대학교 컴퓨터융합학부 3명으로 이뤄져 있음.
 - DSC 모빌리티 sw/ai 융합전공
 <img width=800 alt="image" src="https://github.com/tashu-analytics/capstone-project/assets/114162639/a6fd3a88-4db3-4ef6-8a17-aa983a0baee7">
+---
 
 ### 2. 배경 및 필요성
 - 대전시에서 공공자전거 '타슈'를 활발하게 운영 중
@@ -19,19 +20,24 @@
 - 타슈를 응용한 새로운 서비스가 필요함.
 <img width=800 alt="image" src="https://github.com/tashu-analytics/capstone-project/assets/114162639/cfbe1f49-3071-4278-a96a-d0188bd62906">
 
+---
 
 ### 3. 활동 개요 및 협업 도구
 - 캡스톤 디자인2는 아래와 같은 절차로 수행됨. 
 <img width="800" alt="image" src="https://github.com/tashu-analytics/capstone-project/assets/114162639/692171e5-a419-469d-a643-442d49ab6ee3">
+
 - 사용 언어 & 툴 : Python, Colab, Figma
 <img width="687" alt="image" src="https://github.com/tashu-analytics/capstone-project/assets/114162639/f01d4633-dd44-40ab-8a76-2b195d80329f">
 
+ 
+---
 
 ### 4. 서비스 프로토타입
 - 데이터 분석을 바탕으로 중요한 인사이트를 도출함.
 - 유저 대여 기록을 바탕으로 분석한 프로토타입 결과물 예시) 
 <img width=800 alt="image" src="https://github.com/tashu-analytics/capstone-project/assets/114162639/28505608-4cc7-4332-b8a4-da4f65d773fc">
 
+---
 
 ### 5. 유저 테스트
 - 일시 : 2023.12.10 ~ 12.20
@@ -44,6 +50,7 @@
 <img width=800 alt="image" src="https://github.com/tashu-analytics/capstone-project/assets/114162639/d3c14307-0ed0-4b63-b1ad-15094ab9fae4">
 <img width="800" alt="image" src="https://github.com/tashu-analytics/capstone-project/assets/114162639/df68c81b-c19f-42eb-a539-941537d4811d">
 
+---
 
 ### 6. 활용방안 및 기대효과
 - 유저별 타슈 데이터를 분석한다면 새로운 인사이트를 얻는 것을 기대할 수 있음.
